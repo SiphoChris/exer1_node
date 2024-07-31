@@ -1,0 +1,2 @@
+second additional content that I wrote using Node.js, fs module
+third additional content that I appended into the file using Node.js, fs module
